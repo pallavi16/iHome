@@ -36,7 +36,7 @@ gem 'sass-rails', '>= 3.2'
 gem 'private_pub'
 gem 'thin'
 
-
+gem 'net-ssh'
 gem 'devise'
 gem 'ransack'
 
