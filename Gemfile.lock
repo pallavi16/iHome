@@ -275,7 +275,7 @@ DEPENDENCIES
   omniauth-facebook
   omniauth-google-oauth2
   paperclip
-  pg (= 0.17.1)
+  pg
   private_pub
   puma (~> 3.0)
   rails (~> 5.0.1)
