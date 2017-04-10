@@ -45,6 +45,8 @@ gem 'omniauth-facebook'
 gem 'toastr-rails'
 gem 'sendgrid-rails','~> 2.0','>= 2.0.5'
 gem 'paperclip'
+ gem 'aws-s3'
+ 
 
 gem 'font-awesome-sass','~> 4.7.0'
 gem 'omniauth-google-oauth2'
