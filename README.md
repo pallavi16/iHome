@@ -1,24 +1,5 @@
-# README
+# iHome :
+A web application similar to airbnb to allow people to make reservations with hosts while travelling.  This application is just a clone to better understand how different components in a web application interact with each other. The application allows users to sign up or sign in and make a reservation. A user can either choose to become a host or a guest. A host could put up the listing as soon as he/she signs up to allow guests to view their profile and their room and proceed with the booking. A guest could view his/her trips, make a reservation based on the location they are going. The application also allows the user to view the nearby similar listings. The exact location of the host can be found using a map that has been embedded in the reservation page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Tech details:
+The application has been built using Ruby on Rails, but there are other major components too that interact with it to enhance its functionality. Other web technologies that have been extensively used in the project are HTML5, CSS3, Bootstrap and minimum of jquery and ajax for application’s behavior. 
